@@ -1,0 +1,15 @@
+.btn{
+    background-color: rgb(248, 183, 152) !important;
+    border: none !important;
+    color: black !important;
+}
+.btn:hover{
+    background-color:rgb(238, 217, 190) !important;
+    color: black;
+}
+.txt{
+    color: rgb(248, 183, 152);
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 15px;
+}

@@ -1,0 +1,9 @@
+.footer{
+    background-color: rgb(248, 183, 152) ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 50px;
+}
+.footer p{
+    font-weight: bold;
+    
+}

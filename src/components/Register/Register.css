@@ -1,0 +1,39 @@
+.error{
+    position: relative;
+    color: red;
+    font-size: 1rem;
+    padding-bottom: 10px;
+}
+
+.form{
+    margin-left: 60px;
+}
+.forminput{
+    border: 2px solid rgb(248, 183, 152) !important;
+}
+.btns{
+    margin-left: 60px;
+    margin-right: 10px;
+
+}
+
+.txt{
+    margin-left: 60px;
+}
+.imm{
+    margin-left: 60px;
+    position: absolute;
+    justify-content: right;
+}
+
+@media screen and (max-width: 600px) {
+    .image{
+        display: none;
+
+}
+    .form{
+         width: 150%;
+        
+}
+
+}
